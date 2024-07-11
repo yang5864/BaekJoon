@@ -3,7 +3,7 @@ int main()
 {
     int count;
     scanf("%d", &count);
-    
+
     char num[101];
     scanf("%s", num);
 

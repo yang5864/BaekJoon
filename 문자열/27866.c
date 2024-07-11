@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+int main()
+{
     char S[1001];
     int i;
 
